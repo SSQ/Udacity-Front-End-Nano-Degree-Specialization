@@ -1,8 +1,8 @@
 # Front End Nano Degree Specialization
 
-Course can be found in [Udacity]().
+Course can be found in [Udacity](https://www.udacity.com/).
 
-Partial notes can be found in my [Blog](https://ssq.github.io/2017/06/04/Udacity%20FEND%20Notebook/)
+Partial notes can be found in my blog [SSQ](https://ssq.github.io/2017/06/04/Udacity%20FEND%20Notebook/)
 
 ## Lessons completed
 1. [Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
